@@ -1,0 +1,18 @@
+options(prompt="R> ")
+
+# get working directory
+getwd()
+
+# set working directory
+setwd("/folder1/folder2/folder3/")
+
+# loading packages
+ library("PACKAGE_NAME")
+ 
+# installing packages
+install.packages("ks")
+
+# updating packages
+update.packages()
+ 
+ 
