@@ -14,5 +14,12 @@ install.packages("ks")
 
 # updating packages
 update.packages()
+
+# help with functions, ex. "mean"
+ ?mean
  
- 
+# don't know precise name of function
+??"mean"
+
+# exit the software
+q()
